@@ -1,7 +1,7 @@
 {
     "name": "amirsh/auth",
     "description": "a simple package for authentication",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
