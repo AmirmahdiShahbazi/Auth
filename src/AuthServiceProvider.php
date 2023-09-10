@@ -2,7 +2,7 @@
 
 namespace Amirsh\Auth;
 
-use Amirsh\Auth\Repositories\AuthRepository\AuthInterface;
+use Amirsh\Auth\Services\AuthService\AuthInterface;
 use Amirsh\Auth\Services\AuthService\AuthService;
 use Illuminate\Support\ServiceProvider;
 

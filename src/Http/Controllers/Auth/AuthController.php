@@ -4,7 +4,7 @@ namespace Amirsh\Auth\Http\Controllers\Auth;
 
 use Amirsh\Auth\Http\Requests\Auth\LoginRequest;
 use Amirsh\Auth\Http\Requests\Auth\RegisterRequest;
-use Amirsh\Auth\Repositories\AuthRepository\AuthInterface ;
+use Amirsh\Auth\Services\AuthService\AuthInterface ;
 use App\Http\Controllers\Controller;
 use Exception;
 use Illuminate\Http\Request;
