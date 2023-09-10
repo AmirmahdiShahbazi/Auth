@@ -1,0 +1,26 @@
+{
+    "name": "amirsh/auth",
+    "description": "a simple package for authentication",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Amirsh\\Auth\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AmirmahdiShahbazi",
+            "email": "amirmahdishahbazi1382@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Amirsh\\Auth\\AuthServiceProvider"
+            ]
+
+        }
+    },
+    "require": {}
+}
