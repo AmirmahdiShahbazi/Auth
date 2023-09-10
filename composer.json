@@ -22,5 +22,6 @@
 
         }
     },
-    "require": {}
+    "require": {},
+    "minimum-stability": "stable",
 }
